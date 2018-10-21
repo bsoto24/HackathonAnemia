@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HackatonAnemia</string>
+
+    <string-array name="tipodoc">
+        <item>DNI</item>
+        <item>Pasaporte</item>
+    </string-array>
+
+    <string-array name="sexo">
+        <item>Femenino</item>
+        <item>Masculino</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

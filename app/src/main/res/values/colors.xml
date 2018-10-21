@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/red</color>
+    <color name="colorPrimaryDark">@color/redDark</color>
+    <color name="colorAccent">@color/green</color>
+    <color name="colorAccentLight">@color/green</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="darkBlue">#1976D2</color>
+    <color name="lightBlue">#82B1FF</color>
+    <color name="blueGray">#263238</color>
+    <color name="green">#00C853</color>
+    <color name="greenDark">#AEEA00</color>
+    <color name="greenLight">#CCFF90</color>
+    <color name="pink">#F50057</color>
+    <color name="red">#FF5252</color>
+    <color name="redLight">#FF8A80</color>
+    <color name="yellow">#FFAB00</color>
+
+    <color name="redDark">#B71C1C</color>
+
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="blanco_humo">#f7f6f6</color>
+    <color name="rojo_ipd">#B04127</color>
+    <color name="rojo_claro">#cf5336</color>
+    <color name="rojo_oscuro">#a7341a</color>
+    <color name="gris">#6D6F71</color>
+    <color name="gris_oscuro">#424446</color>
+    <color name="gris_claro">#9b9d9f</color>
+    <color name="verde">#95C11E</color>
+    <color name="primaryText">#424242</color>
+    <color name="primaryTextLight">#757575</color>
+
+    <color name="nivel4">#e98BC34A</color>
+    <color name="nivel3">#e9CDDC39</color>
+    <color name="nivel2">#e9ffc91a</color>
+    <color name="nivel1">#e9FF9800</color>
+    <color name="nivel0">#e9d1cece</color>
+    <color name="neutro">#e9e0f7fa</color>
+
+    <color name="mask_color">#c51c1c1d</color>
+</resources>
